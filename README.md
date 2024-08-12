@@ -15,7 +15,7 @@ __Which city has the highest number of orders?__ Madrid
 
 __Which quarter had the best sales performance?__ Q4 from 2004
 
-__ Which productlines had the higues value in Sales durign 2005 in each territory?__ The productline "Classic Cars" had the greatest value of Sales in EMEA and USA. IN APAC, it was 'Vintage Cars"
+__Which productlines had the higuest value in Sales durign 2005 in each territory?__ The productline "Classic Cars" had the greatest value of Sales in EMEA and USA. IN APAC, it was 'Vintage Cars"
 
 
 
