@@ -1,4 +1,4 @@
-__Title:__ Analyzing data from Vehicle Sales Dataset using SQL
+__Title:__ Analyzing a dataset containing data about Vehicle Sales from from 2003 to 2005 Dataset, using SQL
 
 __Description:__ This project aimed to extract some business relevant insights from the original dataset.
 
