@@ -5,4 +5,16 @@ __Description:__ This project aimed to extract some business relevant insights f
 __Explanation of steps:__ The first set of steps was to clean and arrange the data. There were some irregularities, namely the values that should be in one column X were divided between column X and column X +1.
 The table was continuously altered in order to achieve that lastly, the data could be analysed.
 
-Finnaly, it was possible to extract some information regarding the dataset, namely the most sold products by territory, which clients  purchased the most in quantity terms, among others.
+Finnaly, it was possible to extract some information regarding the dataset, such as:
+
+__Top 5 customers in terms of total purchase value:__ Euro Shopping Channel, Mini Gifts Distributors Ltd, "Australian Collectors Co.", Muscle Machine Inc and La Rochelle Gifts.
+__Which product has the highest profit margin?:__  Product S24_1937 (Vintage Cars)
+__Which city has the highest number of orders?__ Madid
+__Which quarter had the best sales performance?__ Q4 from 2004
+__ Which productlines had the higues value in Sales durign 2005 in each territory?__ The productline "Classic Cars" had the greatest value of Sales in EMEA and USA. IN APAC, it was 'Vintage Cars"
+
+
+
+
+
+
