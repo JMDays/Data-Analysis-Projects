@@ -17,12 +17,11 @@ __Preferences by Gender__
 Women bought more units in fashion and lifestyle products,  but men generated slightly more revenue in electronic accessories, suggesting higher spending in tech categories.
 In food and beverages, women bought more, but men generated less revenue,  implying women may choose higher-value items.
 
-__PREFERED PAYMENT METHOD__
+__Preferred Payment Method__
 Cash is the most frequently used payment method across all cities,  yet it has the lowest average invoice value, suggesting it might be preferred for smaller transactions.
 Despite Ewallets being the least used overall, they generate a higher average invoice value compared to credit cards, indicating they might be favored for larger purchases.
 
-
-__PURCHASES PER SHIFT__
+__Purchases per Shift__
 Branch B has the most purchases (131) in the 3rd Shift, indicating strong late-hour sales.
 Branch A peaks in the 2nd Shift, showing high mid-day activity.
 Branch C has consistent purchases across all shifts, indicating balanced engagement.
