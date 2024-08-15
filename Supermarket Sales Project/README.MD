@@ -2,15 +2,12 @@ __Title:__ Analyzing sales from 3 supermarket branches during part of 2019, usin
 
 __Performance analysis by City and Branch__ 
 Each one of the 3 branches is located in one of 3 different cities.
-Naypyitaw Branch on City C is the branch that has the highest contribution to the overall income at 34%. 
-This suggests that it is a top-performing branch. 
-The location migh be contributing, but other factors but be analyzes such as customer demographics, or marketing strategies, in order to replicate
-this success in other branches
+Naypyitaw Branch on City C is the branch that has the highest contribution to the overall income at 34%, suggesting that it is a top-performing branch. 
+
 Both Yangon Branch on City A and Mandalay Branch on City B contribute equally to the overall income (33% each). 
 However, the company should determine if they are operating at their full potential or if there are opportunities to increase their contribution.
 
-__ Performance Behaviour by type of Client__ 
-
+__ Purchasing behaviour by type of client__
 Data shows that members and normal customers contribute almost equally to quantity and total income (51% to Members vs 49% to Normal Clients, in both variables), although members tend to spend slightly more per unit.	
 The Company should enhance member loyalty and convert more normal customers into members to boost revenue.
 
