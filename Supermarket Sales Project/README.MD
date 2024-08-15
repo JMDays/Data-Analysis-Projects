@@ -10,6 +10,7 @@ Both Yangon Branch on City A and Mandalay Branch on City B contribute equally to
 However, the company should determine if they are operating at their full potential or if there are opportunities to increase their contribution.
 
 __ Performance Behaviour by type of Client__ 
+
 Data shows that members and normal customers contribute almost equally to quantity and total income (51% to Members vs 49% to Normal Clients, in both variables), although members tend to spend slightly more per unit.	
 The Company should enhance member loyalty and convert more normal customers into members to boost revenue.
 
