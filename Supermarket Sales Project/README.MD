@@ -1,6 +1,7 @@
 __Title:__ Analyzing sales from 3 supermarket branches during part of 2019, using SQL
 
 __Performance analysis by City and Branch__ 
+https://github.com/JMDays/Data-Analysys-Projects/blob/main/Supermarket%20Sales%20Project/Project%20Supermarket%20Sales.sql#L35
 Each one of the 3 branches is located in one of 3 different cities.
 Naypyitaw Branch on City C is the branch that has the highest contribution to the overall income at 34%, suggesting that it is a top-performing branch. 
 
