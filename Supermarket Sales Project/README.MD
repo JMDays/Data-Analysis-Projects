@@ -4,7 +4,7 @@ In the second phase, with the data already cleaned, Power BI was used to create 
 Above there are links that will re-direct to the respective section of the SQL code used.
 
 
-__ I - Data Analysis using SQL__
+__ I - Data Analysis using SQL __
 
 __Performance analysis by City and Branch__ 
 https://github.com/JMDays/Data-Analysys-Projects/blob/main/Supermarket%20Sales%20Project/Project%20Supermarket%20Sales.sql#L35
