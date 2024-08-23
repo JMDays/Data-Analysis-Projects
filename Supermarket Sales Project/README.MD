@@ -1,4 +1,10 @@
-__Title:__ Analyzing sales from 3 supermarket branches during part of 2019, using SQL
+__Title:__ Data Analysis of a Sales Dataset. 
+In this project, SQL was used for data cleaning, and afterward, to extract some relevant conclusions from a business point of view (POV).
+In the second phase, with the data already cleaned, Power BI was used to create visualizations that facilitate the analysis and interpretation of the results.
+Above there are links that will re-direct to the respective section of the SQL code used.
+
+
+__ I - Data Analysis using SQL__
 
 __Performance analysis by City and Branch__ 
 https://github.com/JMDays/Data-Analysys-Projects/blob/main/Supermarket%20Sales%20Project/Project%20Supermarket%20Sales.sql#L35
@@ -36,3 +42,4 @@ Branch A peaks in the 2nd Shift, showing high mid-day activity.
 Branch C has consistent purchases across all shifts, indicating balanced engagement.
 This data could guide staffing and resource allocation, optimizing operations during peak shifts.
 
+__II -  Data Visualization using Power BI__
