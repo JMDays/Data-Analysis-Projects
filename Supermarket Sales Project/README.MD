@@ -43,3 +43,4 @@ Branch C has consistent purchases across all shifts, indicating balanced engagem
 This data could guide staffing and resource allocation, optimizing operations during peak shifts.
 
 __II -  Data Visualization using Power BI__
+Please open the .pbix file attached.
