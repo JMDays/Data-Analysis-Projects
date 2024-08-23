@@ -1,10 +1,10 @@
 __Title:__ Data Analysis of a Sales Dataset. 
 In this project, SQL was used for data cleaning, and afterward, to extract some relevant conclusions from a business point of view (POV).
 In the second phase, with the data already cleaned, Power BI was used to create visualizations that facilitate the analysis and interpretation of the results.
-Above there are links that will re-direct to the respective section of the SQL code used.
 
 
-__ I - Data Analysis using SQL __
+__I - Data Cleaning and Analysis using SQL__ 
+It is possible to access the respective section of the SQL code by the links provided bellow.
 
 __Performance analysis by City and Branch__ 
 https://github.com/JMDays/Data-Analysys-Projects/blob/main/Supermarket%20Sales%20Project/Project%20Supermarket%20Sales.sql#L35
