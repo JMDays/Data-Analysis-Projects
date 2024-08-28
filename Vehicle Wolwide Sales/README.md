@@ -2,6 +2,8 @@ __Title:__ Data Analysis of a Vehcicle Sales Dataset.
   In this project, SQL was used for data cleaning, and afterward, to extract some relevant conclusions from a business point of view (POV).
   The company sells different kinds of vehicles for various clients worldwide. Three years of data are considered (2003, 2004 and 2005).
 It is possible to access the respective section of the SQL code by the links provided bellow.
+In a second phase, with the data already cleaned, Power BI was used to create visualizations that facilitate the analysis and interpretation of the results.
+
 
 __I - Data Cleaning__
 https://github.com/JMDays/Data-Analysis-Projects/blob/main/Vehicle%20Wolwide%20Sales/Vehicles%20Worldwide%20Sales%20_.sql#L28
@@ -49,7 +51,12 @@ https://github.com/JMDays/Data-Analysis-Projects/blob/main/Vehicle%20Wolwide%20S
 
   Classic Cars led sales in both EMEA and NA, suggesting strong demand for this type of product in these regions. 
 	Vintage Cars was the most popular in APAC.
-	One recommendation would be to adjust inventory management and distribution strategies to ensure higher stock levels of "Classic Cars" in EMEA and NA regions 
+One recommendation would be to adjust inventory management and distribution strategies to ensure higher stock levels of "Classic Cars" in EMEA and NA regions 
 	and more "Vintage Cars" in the APAC region. 
 	This could involve reallocating production resources or optimizing supply chain operations to better match regional demand patterns.
 
+
+ __II - Data Visualization using Power BI__ Acessible on the .pbi file.
+
+
+	
